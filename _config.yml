@@ -13,7 +13,7 @@ title                    : "Theerawit Wilaiprasitporn"
 title_separator          : "-"
 name                     : &name "Theerawit Wilaiprasitporn"
 description              : &description "Thailand Young Scientist Award 2024 by the Foundation for the Promotion of Science and Technology under the Patronage of His Majesty the King"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+URL                      : "https://theerawitw.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "theerawitw/theerawitw.github.io"
 
@@ -22,7 +22,7 @@ repository               : "theerawitw/theerawitw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "theerawit_profile.png"
+  avatar           : "theerawit-profile.png"
   name             : "Theerawit Wilaiprasitporn"
   pronouns         : # example: "she/her"  
   bio              : "Biomedical Signal Processing, Brain-Computer Interfaces, AI in Healthcare, Sleep Medicine"
