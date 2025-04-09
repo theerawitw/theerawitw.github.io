@@ -22,12 +22,12 @@ repository               : "theerawitw/theerawitw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "theerawit_profile.jpeg"
+  avatar           : "theerawit_profile.png"
   name             : "Theerawit Wilaiprasitporn"
   pronouns         : # example: "she/her"  
   bio              : "Biomedical Signal Processing, Brain-Computer Interfaces, AI in Healthcare, Sleep Medicine"
   location         : "Rayong, Thailand"
-  employer         : "Vidyasirimedhi Institute of Science and Technology (VISTEC)"
+  employer         : "VISTEC"
   uri              : # URL
   email            : # "none@example.org" 
 
