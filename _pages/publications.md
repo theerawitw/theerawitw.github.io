@@ -68,7 +68,7 @@ C. Boonnag et al., **PACMAN: A Framework for Pulse Oximeter Digit Detection and 
 
 J. Nukitram et al., **ANet: Autoencoder-Based Local Field Potential Feature Extractor for Evaluating an Antidepressant Effect in Mice After Administering Kratom Leaf Extracts**, in IEEE Transactions on Biomedical Circuits and Systems, vol. 17, no. 1, pp. 67-76, Feb. 2023, doi: 10.1109/TBCAS.2023.3234280. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10006365)
 
-Zhongling LIU, Pengcheng LI, Akima CONNELLY, Phurin RANGPONG, Theerawit WILAIPRASITPORN, Tohru YAGI, Decoding of Motor Imagery EEG for Three Hand Gestures, 2023, Volume Annual61, Issue Abstract, Pages 201_2, Released on J-STAGE January 13, 2024, Online ISSN 1881-4379, Print ISSN 1347-443X,doi: 10.11239/jsmbe.Annual61.201_2.
+Zhongling LIU, Pengcheng LI, Akima CONNELLY, Phurin RANGPONG, Theerawit WILAIPRASITPORN, Tohru YAGI, **Decoding of Motor Imagery EEG for Three Hand Gestures**, 2023, Volume Annual61, Issue Abstract, Pages 201_2, Released on J-STAGE January 13, 2024, Online ISSN 1881-4379, Print ISSN 1347-443X, doi: 10.11239/jsmbe.Annual61.201_2.
 
 2022
 ------
@@ -126,7 +126,7 @@ P. Sawangjai, S. Hompoonsup, P. Leelaarporn, S. Kongwudhikunakorn and T. Wilaipr
 
 P. Autthasan et al., **A Single-Channel Consumer-Grade EEG Device for Brain–Computer Interface: Enhancing Detection of SSVEP and Its Amplitude Modulation**, in IEEE Sensors Journal, vol. 20, no. 6, pp. 3366-3378, 15 March15, 2020, doi: 10.1109/JSEN.2019.2958210. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8926475)
 
-Ninyawee, N. et al. (2020). Making Food with the Mind: Integrating Brain-Computer Interface and 3D Food Fabrication. In: Arai, K., Bhatia, R., Kapoor, S. (eds) Proceedings of the Future Technologies Conference (FTC) 2019. FTC 2019. Advances in Intelligent Systems and Computing, vol 1069. Springer, Cham. doi: 10.1007/978-3-030-32520-6_19.
+Ninyawee, N. et al. (2020). **Making Food with the Mind: Integrating Brain-Computer Interface and 3D Food Fabrication**. In: Arai, K., Bhatia, R., Kapoor, S. (eds) Proceedings of the Future Technologies Conference (FTC) 2019. FTC 2019. Advances in Intelligent Systems and Computing, vol 1069. Springer, Cham. doi: 10.1007/978-3-030-32520-6_19.
 
 R. Chaisaen et al., **Decoding EEG Rhythms During Action Observation, Motor Imagery, and Execution for Standing and Sitting**, in IEEE Sensors Journal, vol. 20, no. 22, pp. 13776-13786, 15 Nov.15, 2020, doi: 10.1109/JSEN.2020.3005968. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9130151)
 
@@ -138,7 +138,7 @@ P. Lakhan et al., **Consumer Grade Brain Sensing for Emotion Recognition**, in I
 
 A. Ditthapron, N. Banluesombatkul, S. Ketrat, E. Chuangsuwanich and T. Wilaiprasitporn, **Universal Joint Feature Extraction for P300 EEG Classification Using Multi-Task Autoencoder**, in IEEE Access, vol. 7, pp. 68415-68428, 2019, doi: 10.1109/ACCESS.2019.2919143. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8723080)
 
-Lily R Wong, Yukiyo Kuriyagawa, Nikhil Gowda, Patrick Cravalho, Theerawit Wilaiprasitporn, Javier Garcia, Erin E Flynn-Evans, 0193 Sleepiness and Slow Rolling Eye Movements are Increased During Autonomous Versus Manual Driving, Sleep, Volume 42, Issue Supplement_1, April 2019, Page A79, doi: 10.1093/sleep/zsz067.192.
+Lily R Wong, Yukiyo Kuriyagawa, Nikhil Gowda, Patrick Cravalho, Theerawit Wilaiprasitporn, Javier Garcia, Erin E Flynn-Evans, **0193 Sleepiness and Slow Rolling Eye Movements are Increased During Autonomous Versus Manual Driving**, Sleep, Volume 42, Issue Supplement_1, April 2019, Page A79, doi: 10.1093/sleep/zsz067.192.
 
 2018
 ------
