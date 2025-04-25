@@ -5,12 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 
-Internal/External Examiner
+Editorial Board Members
 ------
-- xxxxxxx
-- xxxxxxx
-  
-Journal Review
-------
-- xxxxxxx
-- xxxxxxx
+* Associate Editor of IEEE Internet of Things Journal
+* Associate Editor of IEEE Sensors Journal
