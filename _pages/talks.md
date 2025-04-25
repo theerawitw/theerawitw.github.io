@@ -9,7 +9,7 @@ author_profile: true
     Last updated: 9 Apr 2025
 </p>
 
-Invited Talks
+Invited Talks (2025)
 ------
-- xxxxxxx
-- xxxxxxx
+
+Invited Speaker at Online Faculty Development Programme (AI in Health), IIT Roorkee, India
