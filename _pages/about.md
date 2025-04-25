@@ -11,11 +11,11 @@ redirect_from:
     Last updated: 9 Apr 2025
 </p>
 
-Theerawit Wilaiprasitporn received his Ph.D. in Engineering from the Graduate School of Information Science and Engineering, Tokyo Institute of Technology, Japan, in 2017. He specializes in medical AI. He founded [Interfaces](https://www.facebook.com/interfaces.brainvistec/), an AI-driven health research team at VISTEC, and SensAI, a platform focused on AI-driven anomaly sensing for improved health outcomes.
+Theerawit Wilaiprasitporn received his Ph.D. in Engineering from the Graduate School of Information Science and Engineering, Tokyo Institute of Technology, Japan, in 2017. He specializes in AI for health and medical-related applications. He founded [Interfaces](https://www.facebook.com/interfaces.brainvistec/), an AI-driven health research team at VISTEC, and SensAI, a platform focused on AI-driven anomaly sensing for improved health outcomes. In 2024, SensAI licensed its technology to dNapz, which focuses on AI-driven personalized sleep insight, a Thai startup company founded by Interfaces' alumni.
 
-His contributions have been instrumental in developing remote health monitoring systems, which supported over 30,000 individuals during the COVID-19 pandemic. This achievement led to his nomination for the 2022 IEEE R10 Humanitarian Technology Activities Outstanding Volunteer Award. Most recently, he was honored with the prestigious Young Scientist Award 2024 by the Foundation for the Promotion of Science and Technology under the Patronage of His Majesty the King, recognizing him as one of Thailand's leading young professionals.
+Since establishing Interfaces, VISTEC, Theerawit's contributions have been instrumental in developing remote health monitoring systems, which supported over 30,000 individuals during the COVID-19 pandemic. This achievement led to his nomination for the 2022 IEEE R10 Humanitarian Technology Activities Outstanding Volunteer Award. Most recently, he was honored with the prestigious Young Scientist Award 2024 by the Foundation for the Promotion of Science and Technology under the Patronage of His Majesty the King, recognizing him as one of Thailand's leading young professionals.
 
-<br>
+Recently, Theerawit has been involved in emerging technologies and industries, collaborating with industrial partners to research and develop AI-driven digital therapeutic and climate consultation solutions.
 
 News
 ======
