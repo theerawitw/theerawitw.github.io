@@ -19,5 +19,6 @@ Recently, Theerawit has been involved in emerging technologies and industries, c
 
 News
 ======
-* **June 2025:** <span style="color:#B22222">(New)</span> Invited Talk at the Asia Pacific Spatial and Single-Cell Biology Innovation Conference (AP-SciBio2025).
-* * **June 2025:** <span style="color:#B22222">(New)</span> เป็นวิทยากรในการฝึกอบรมหลักสูตร “การพัฒนาผู้บริหารสถาบันผลิตแพทย์แห่งประเทศไทย” รุ่นที่ 24.
+* **June 2025:** <span style="color:#B22222">(New)</span> Invited Speaker at the Asia Pacific Spatial and Single-Cell Biology Innovation Conference (AP-SciBio2025).
+* **June 2025:** <span style="color:#B22222">(New)</span> เป็นวิทยากรในการฝึกอบรมหลักสูตร “การพัฒนาผู้บริหารสถาบันผลิตแพทย์แห่งประเทศไทย” รุ่นที่ 24.
+* **November 2025:** <span style="color:#B22222">(New)</span> Keynote Speaker at the 5th International Nursing and Health Sciences Conference.
