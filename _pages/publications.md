@@ -8,8 +8,6 @@ author_profile: true
 <p style="color: grey; font-size: small;">
     Last updated: 9 Apr 2025
 </p>
-
-  _<u>Note:</u> _
   
   You can find my Google Scholar profile [here](https://scholar.google.com/citations?hl=en&user=U-L-iGIAAAAJ&view_op=list_works&sortby=pubdate).
 
