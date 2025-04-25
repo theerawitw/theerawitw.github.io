@@ -19,6 +19,6 @@ Recently, Theerawit has been involved in emerging technologies and industries, c
 
 News
 ======
-* **June 2025:** <span style="color:#B22222"> </span> Invited Speaker at the Asia Pacific Spatial and Single-Cell Biology Innovation Conference (AP-SciBio2025), Bangkok, Thailand.
-* **June 2025:** <span style="color:#B22222"> </span> เป็นวิทยากรในการฝึกอบรมหลักสูตร “การพัฒนาผู้บริหารสถาบันผลิตแพทย์แห่งประเทศไทย” รุ่นที่ 24.
-* **November 2025:** <span style="color:#B22222"> </span> Keynote Speaker at Digital Health and Innovation in Nursing and Health Science: Shaping a Healthier Tomorrow and Global Sustainability" (DHIT 2025), Khon Kaen, Thailand.
+* **June 2025:** <span style="color:#B22222"> </span> Invited Speaker at the Asia Pacific Spatial and Single-Cell Biology Innovation Conference (AP-SciBio2025), Bangkok, Thailand
+* **June 2025:** <span style="color:#B22222"> </span> เป็นวิทยากรในการฝึกอบรมหลักสูตร “การพัฒนาผู้บริหารสถาบันผลิตแพทย์แห่งประเทศไทย” รุ่นที่ 24
+* **November 2025:** <span style="color:#B22222"> </span> Keynote Speaker at Digital Health and Innovation in Nursing and Health Science: Shaping a Healthier Tomorrow and Global Sustainability" (DHIT 2025), Khon Kaen, Thailand
