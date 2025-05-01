@@ -15,6 +15,8 @@ Theerawit Wilaiprasitporn received his Ph.D. in Engineering from the Graduate Sc
 
 Since establishing Interfaces, VISTEC, Theerawit's contributions have been instrumental in developing remote health monitoring systems, which supported over 30,000 individuals during the COVID-19 pandemic. This achievement led to his nomination for the 2022 IEEE R10 Humanitarian Technology Activities Outstanding Volunteer Award. Most recently, he was honored with the prestigious Young Scientist Award 2024 by the Foundation for the Promotion of Science and Technology under the Patronage of His Majesty the King, recognizing him as one of Thailand's leading young professionals.
 
+Theerawit is now working as an associate professor of computer engineering at the School of Information Science and Technology (IST), VISTEC, supervising PhD and Master students, and also serving as an associate editor of IEEE Internet of Things Journal and IEEE Sensors Journal.
+
 Recently, Theerawit has been involved in emerging technologies and industries, collaborating with industrial partners to research and develop AI-driven digital therapeutic and climate consultation solutions.
 
 News
