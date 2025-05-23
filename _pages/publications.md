@@ -14,9 +14,9 @@ author_profile: true
 2025
 ------
 
-R. Chaisaen, P. Autthasan, A. Ditthapron and T. Wilaiprasitporn, "AlphaGrad: Normalized Gradient Descent for Adaptive Multi-loss Functions in EEG-based Motor Imagery Classification," in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2025.3572197.  [[PDF]](https://ieeexplore.ieee.org/document/11008918)
+R. Chaisaen, P. Autthasan, A. Ditthapron and T. Wilaiprasitporn, **AlphaGrad: Normalized Gradient Descent for Adaptive Multi-loss Functions in EEG-based Motor Imagery Classification**, in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2025.3572197.  [[PDF]](https://ieeexplore.ieee.org/document/11008918)
 
-N. Banluesombatkul, E. Mignot, and T. Wilaiprasitporn, "Comprehensive evaluation of odds ratio product and spectral slope as continuous sleep depth measures: Advancing sleep staging and clinical applications," SLEEP, doi: 10.1093/sleep/zsaf130
+N. Banluesombatkul, E. Mignot, and T. Wilaiprasitporn, **Comprehensive evaluation of odds ratio product and spectral slope as continuous sleep depth measures: Advancing sleep staging and clinical applications**, SLEEP, doi: 10.1093/sleep/zsaf130
 
 P. Sawangjai, N. Seesawad and T. Wilaiprasitporn, **Removal of Motion Artifacts From the PPG Signal Using Attentive Generative Adversarial Networks With Dual Discriminator**, in IEEE Transactions on Instrumentation and Measurement, vol. 74, pp. 1-10, 2025, Art no. 2504210, doi: 10.1109/TIM.2025.3529546. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10841429)
 
