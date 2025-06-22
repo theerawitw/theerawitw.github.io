@@ -13,6 +13,7 @@ Invited Talks (2025)
 ------
 * Keynote Speaker at Digital Health and Innovation in Nursing and Health Science: Shaping a Healthier Tomorrow and Global Sustainability” (DHIT 2025), Khon Kaen, Thailand
 * เป็นวิทยากรในการฝึกอบรมหลักสูตร “การพัฒนาผู้บริหารสถาบันผลิตแพทย์แห่งประเทศไทย” รุ่นที่ 24, at Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand
+* Invited Speaker at Human-cEntered AI and Robotics for Assistive and Rehabilitative Technology towards Good Health and Well-being (HEART), Bangkok, Thailand
 * Invited Speaker at the Asia Pacific Spatial and Single-Cell Biology Innovation Conference (AP-SciBio2025), Bangkok, Thailand
 * Invited Speaker at online session of Faculty of Pharmacy, Silpakorn University, for the topic of AI as a research assistant in health research, Nakorn Pathom, Thailand
 * Invited Speaker at 25th HA National Forum: Building Quality and Safety Culture for the Future Sustainability, Bangkok, Thailand
