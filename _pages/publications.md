@@ -13,6 +13,7 @@ author_profile: true
 
 2025
 ------
+S. Kongwudhikunakorn et al., **EEGMeNet: End-to-End Multi-Task Neural Network for Brain-Based Mental Workload Classification,** in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3593907.  [[PDF]](https://ieeexplore.ieee.org/document/11104848)
 
 R. Chaisaen, P. Autthasan, A. Ditthapron and T. Wilaiprasitporn, **AlphaGrad: Normalized Gradient Descent for Adaptive Multi-loss Functions in EEG-based Motor Imagery Classification**, in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2025.3572197.  [[PDF]](https://ieeexplore.ieee.org/document/11008918)
 
