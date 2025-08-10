@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="color: grey; font-size: small;">
-    Last updated: 25 Apr 2025
+    Last updated: 10 Aug 2025
 </p>
 
 Theerawit Wilaiprasitporn received his Ph.D. in Engineering from the Graduate School of Information Science and Engineering, Tokyo Institute of Technology, Japan, in 2017. He specializes in AI for health and medical-related applications. He founded [Interfaces](https://www.facebook.com/interfaces.brainvistec/), an AI-driven health research team at Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand, and Sense AI Company Limited (SensAI), focused on AI-driven anomaly sensing for improved health outcomes. In 2024, SensAI licensed its technology to dNapz, which focuses on AI-driven personalized sleep insight, a Thai startup company founded by Interfaces' alums.
@@ -17,11 +17,10 @@ Since establishing Interfaces, VISTEC, Theerawit's contributions have been instr
 
 Theerawit is now working as an associate professor of computer engineering at the School of Information Science and Technology (IST), VISTEC, supervising PhD and Master students, and also serving as an associate editor of IEEE Internet of Things Journal and IEEE Sensors Journal.
 
-Recently, Theerawit has been involved in emerging technologies and industries, collaborating with industrial partners to research and develop AI-driven digital therapeutic and climate consultation solutions.
+Recently, Theerawit has been involved in emerging technologies and industries, collaborating with industrial partners to research and develop AI-driven digital therapeutic (FitSloth Co., Ltd.) and climate consultation solutions.
 
 News
 ======
-* **June 2025:** <span style="color:#B22222"> </span> Invited Speaker at the Asia Pacific Spatial and Single-Cell Biology Innovation Conference (AP-SciBio2025), Bangkok, Thailand
-* **June 2025:** <span style="color:#B22222"> </span> Invited Speaker at Human-cEntered AI and Robotics for Assistive and Rehabilitative Technology towards Good Health and Well-being (HEART), Bangkok, Thailand
 * **June 2025:** <span style="color:#B22222"> </span> เป็นวิทยากรในการฝึกอบรมหลักสูตร “การพัฒนาผู้บริหารสถาบันผลิตแพทย์แห่งประเทศไทย” รุ่นที่ 24, at Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand
+* **October 2025:** <span style="color:#B22222"> </span> Selected as the representative from Thailand with full financial support from the National Research Council of Thailand (NRCT), I have been invited to the 22nd STS forum in Kyoto — a global gathering of world leaders, Nobel Laureates, and top executives shaping the future of science and technology.
 * **November 2025:** <span style="color:#B22222"> </span> Keynote Speaker at Digital Health and Innovation in Nursing and Health Science: Shaping a Healthier Tomorrow and Global Sustainability" (DHIT 2025), Khon Kaen, Thailand
