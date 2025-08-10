@@ -10,10 +10,8 @@ author_profile: true
 </p>
 
 Grants
-------
-Funded Projects
-	1.	Developing an AI (LLM-based) System to Support Climate Consulting Tasks (2025)
-	•	$11,600 funding from THE CREAGY CO., LTD. (PI)
+* Developing an AI (LLM-based) System to Support Climate Consulting Tasks (2025)
+	* $11,600 funding from THE CREAGY CO., LTD. (PI)
 	2.	A Large Language Model (LLM)-based Co-Pilot System for Nutritionists Servicing Digital Therapeutics (2024)
 	•	$8,800 funding from FitSloth Co., Ltd. (PI)
 	3.	Home-used Sleep Test Solution for Proactive Prescreening in People with Suspected Obstructive Sleep Apnea (B-Sense) (2024 – Terminated)
