@@ -23,4 +23,5 @@ News
 ======
 * **June 2025:** <span style="color:#B22222"> </span> เป็นวิทยากรในการฝึกอบรมหลักสูตร “การพัฒนาผู้บริหารสถาบันผลิตแพทย์แห่งประเทศไทย” รุ่นที่ 24, at Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand
 * **October 2025:** <span style="color:#B22222"> </span> Selected as the representative from Thailand with full financial support from the National Research Council of Thailand (NRCT), I have been invited to the 22nd Science and Technology in Society (STS) Forum in Kyoto — a global gathering of world leaders, Nobel Laureates, and top executives shaping the future of science and technology.
+* **November 2025:** <span style="color:#B22222"> </span> Invited Speaker — Session: Medical Artificial Intelligence: The Present & Future of Medicine, BDMS Academic Annual Meeting, Bangkok, Thailand
 * **November 2025:** <span style="color:#B22222"> </span> Keynote Speaker at Digital Health and Innovation in Nursing and Health Science: Shaping a Healthier Tomorrow and Global Sustainability" (DHIT 2025), Khon Kaen, Thailand
