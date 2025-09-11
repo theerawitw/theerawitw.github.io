@@ -12,6 +12,7 @@ author_profile: true
 Invited Talks (2025)
 ------
 * Selected as the representative from Thailand with full financial support from the National Research Council of Thailand (NRCT), I have been invited to the 22nd Science and Technology in Society (STS) Forum in Kyoto — a global gathering of world leaders, Nobel Laureates, and top executives shaping the future of science and technology.
+* Invited Speaker — Session: Medical Artificial Intelligence: The Present & Future of Medicine, BDMS Academic Annual Meeting, Bangkok, Thailand
 * Keynote Speaker at Digital Health and Innovation in Nursing and Health Science: Shaping a Healthier Tomorrow and Global Sustainability” (DHIT 2025), Khon Kaen, Thailand
 * เป็นวิทยากรในการฝึกอบรมหลักสูตร “การพัฒนาผู้บริหารสถาบันผลิตแพทย์แห่งประเทศไทย” รุ่นที่ 24, at Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand
 * Invited Speaker at Human-cEntered AI and Robotics for Assistive and Rehabilitative Technology towards Good Health and Well-being (HEART), Bangkok, Thailand
