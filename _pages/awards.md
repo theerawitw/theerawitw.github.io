@@ -6,10 +6,12 @@ author_profile: true
 ---
 
 <p style="color: grey; font-size: small;">
-    Last updated: 10 Aug 2025
+    Last updated: 28 Sep 2025
 </p>
 
 Grants
+* Development of AI Algorithms for Detecting Obstructive Sleep Apnea Using Photoplethysmography (PPG) Data from Wearable Devices (2025-2026)
+	* $13,400 Funding from Fundamental Fund (FF) of Thailand managed by Thailand Science Research and Innovation (TSRI) (PI)
 * Developing an AI (LLM-based) System to Support Climate Consulting Tasks (2025)
 	* $11,600 funding from THE CREAGY CO., LTD. (PI)
 * A Large Language Model (LLM)-based Co-Pilot System for Nutritionists Servicing Digital Therapeutics (2024)
