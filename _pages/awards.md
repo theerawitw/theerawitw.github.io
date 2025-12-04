@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p style="color: grey; font-size: small;">
-    Last updated: 28 Sep 2025
+    Last updated: 4 Dec 2025
 </p>
 
 Grants
@@ -49,6 +49,8 @@ Grants
 	* $19,600 funding from Thailand Research Funding (PI)
   
 Awards
+* Outstanding Research Award 2025, National Research Council of Thailand (NRCT),
+for the project “Development of Multi-Task and Multi-Objective Artificial Intelligence Architectures for EEG and PPG Signal Processing.”
 * Young Scientist Awards 2024 (of Thailand), Foundation for the Promotion of Science and Technology under the Patronage of His Majesty the King
 * 2024 Future List Honouree
 * The IEEE R10 Humanitarian Technology Activities (HTA) Outstanding Volunteer Award 2022
