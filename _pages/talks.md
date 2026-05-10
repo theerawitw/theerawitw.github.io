@@ -8,6 +8,7 @@ author_profile: true
 <p style="color: grey; font-size: small;">
     Last updated: 10 May 2026
 </p>
+
 Invited Talks and Thesis Assessment (2026)
 ------
 * Invited Tutorial Speaker at IEEE BioSensors 2026, Bangkok, Thailand
