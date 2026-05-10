@@ -6,10 +6,15 @@ author_profile: true
 ---
 
 <p style="color: grey; font-size: small;">
-    Last updated: 10 Aug 2025
+    Last updated: 10 May 2026
 </p>
   
   You can find my Google Scholar profile [here](https://scholar.google.com/citations?hl=en&user=U-L-iGIAAAAJ&view_op=list_works&sortby=pubdate).
+2026
+------
+S. Santiwongkarn et al., **AutoPPGEncoder: Autoencoder Training with Two-Stage Peak-aware Loss for Resource-constrained PPG Signal Compression,** in IEEE Sensors Journal, doi: 10.1109/JSEN.2026.3686963. [[PDF]](https://ieeexplore.ieee.org/document/11501190)
+
+W. Polpakdee et al., **M2-Net: A Multiscale Multi-Task Neural Network for EEG-Based Seizure Detection,** in IEEE Sensors Journal, doi: 10.1109/JSEN.2026.3680325. [[PDF]](https://ieeexplore.ieee.org/document/11477998)
 
 2025
 ------
