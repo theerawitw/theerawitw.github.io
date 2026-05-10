@@ -6,8 +6,19 @@ author_profile: true
 ---
 
 <p style="color: grey; font-size: small;">
-    Last updated: 11 Sep 2025
+    Last updated: 10 May 2026
 </p>
+Invited Talks and Thesis Assessment (2026)
+------
+* Invited Tutorial Speaker at IEEE BioSensors 2026, Bangkok, Thailand
+* 
+* Invited Speaker at Training Session: From Research to Real-World Impact: Translating Nutrition and Food Science into Innovation, Institute of Nutrition, Mahidol University, Nakhon Pathom, Thailand
+* Member of the Thesis Defense Examination Committee for M.Sc. student in Physiology, Faculty of Science, Prince of Songkla University (PSU), Thailand
+* Invited Speaker at Research and Innovation Development Program 2026, Faculty of Allied Health Sciences, Naresuan University, Phitsanulok, Thailand
+* Invited Speaker at The 40th DPST Summer Science Camp, Faculty of Science, Prince of Songkla University, Songkhla, Thailand
+* Member of the PhD Assessment Committee for Niels Rasmus Lorenzen, Technical University of Denmark (DTU), Denmark
+* Invited Speaker at Thai Immunology Annual Meeting 2026, Bangkok, Thailand
+* Invited Speaker at The 2nd International Symposium on Physical Artificial Intelligence and Robotics (IS-PAIR 2026), Bangkok, Thailand
 
 Invited Talks (2025)
 ------
