@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="color: grey; font-size: small;">
-    Last updated: 10 May 2026
+    Last updated: July 2026
 </p>
 
 Theerawit Wilaiprasitporn received his Ph.D. in Engineering from the Graduate School of Information Science and Engineering at the Tokyo Institute of Technology, Japan, in 2017. He specializes in AI applications for health and medical purposes. He founded [Interfaces](https://www.facebook.com/interfaces.brainvistec/), an AI-driven health research team at the Vidyasirimedhi Institute of Science and Technology (VISTEC) in Thailand. 
