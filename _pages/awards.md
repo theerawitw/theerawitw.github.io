@@ -12,6 +12,8 @@ author_profile: true
 Grants
 * National EEG Data Sharing Platform and AI-Assisted Clinical Decision Support System for Seizure Detection and Management (2026–2027)
 	* $570,000 (THB 18.7 million) competitively awarded government contract through a national procurement by the Bureau of Digital Health, Office of the Permanent Secretary, Ministry of Public Health, Thailand (Project Director)
+* FitSloth AI Care Co-Pilot (2026-2027)
+	* $130,770 Funding from FitSloth Co., Ltd. and National Innovation Agency (NIA) (Project Advisor)
 * Development of AI Algorithms for Detecting Obstructive Sleep Apnea Using Photoplethysmography (PPG) Data from Wearable Devices (2025-2026)
 	* $13,400 Funding from Fundamental Fund (FF) of Thailand managed by Thailand Science Research and Innovation (TSRI) (PI)
 * Developing an AI (LLM-based) System to Support Climate Consulting Tasks (2025)
