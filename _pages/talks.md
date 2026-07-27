@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p style="color: grey; font-size: small;">
-    Last updated: 10 May 2026
+    Last updated: July 2026
 </p>
 
 Invited Talks and Thesis Assessment (2026)
