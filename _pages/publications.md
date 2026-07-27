@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p style="color: grey; font-size: small;">
-    Last updated: 31 May 2026
+    Last updated: July 2026
 </p>
   
   You can find my Google Scholar profile [here](https://scholar.google.com/citations?hl=en&user=U-L-iGIAAAAJ&view_op=list_works&sortby=pubdate).
