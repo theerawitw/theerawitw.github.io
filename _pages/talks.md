@@ -13,6 +13,7 @@ Invited Talks and Thesis Assessment (2026)
 ------
 * Invited Tutorial Speaker at IEEE BioSensors 2026, Bangkok, Thailand
 * Invited Speaker for AI-Assisted Tools in Research Writing, Faculty of Liberal Arts and Science, Kasetsart University, Kamphaeng Saen Campus, Thailand
+* Invited Opening Keynote Speaker and External Expert for Medical AI at the Flagship Research Project Forum, Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand
 * Invited Speaker at Training Session: From Research to Real-World Impact: Translating Nutrition and Food Science into Innovation, Institute of Nutrition, Mahidol University, Nakhon Pathom, Thailand
 * Member of the Thesis Defense Examination Committee for M.Sc. student in Physiology, Faculty of Science, Prince of Songkla University (PSU), Thailand
 * Invited Speaker at Research and Innovation Development Program 2026, Faculty of Allied Health Sciences, Naresuan University, Phitsanulok, Thailand
